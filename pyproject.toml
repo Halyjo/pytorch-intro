@@ -1,0 +1,20 @@
+[project]
+name = "pytorch-intro"
+version = "0.1.0"
+description = "Intro to working with PyTorch"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "ipykernel>=6.29.5",
+    "ipynb>=0.5.1",
+    "ipython>=8.34.0",
+    "matplotlib",
+    "numpy",
+    "torch",
+    "torchvision",
+]
+
+[dependency-groups]
+dev = [
+    "ruff>=0.11.0",
+]

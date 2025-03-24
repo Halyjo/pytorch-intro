@@ -1,0 +1,7 @@
+ipykernel>=6.29.5
+ipynb>=0.5.1
+ipython>=8.34.0
+matplotlib
+numpy
+torch
+torchvision
