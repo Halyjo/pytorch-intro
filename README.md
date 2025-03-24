@@ -2,7 +2,7 @@
 This repository contains a jupyter notebook with an introduction to PyTorch assuming you have previously worked with Numpy.
 
 ## TLDR; just show me the code, please!
-If you just want to see the code, go to `src/pytorch-intro.ipynb` and have a look at the notebook.
+Go to `src/pytorch-intro.ipynb` and have a look at the notebook.
 
 
 ## Installation
