@@ -37,3 +37,5 @@ jupyter notebook
 
 3. Play around and learn!
 
+## Issues?
+If you have questions, bugs or other issues, please let me know by creating an issue in the repo [here](https://github.com/Halyjo/pytorch-intro/issues), or by contacting me directly.
